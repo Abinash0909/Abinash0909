@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abinash0909
 - 👀 I’m interested in Data Science,Web Development ,Software Development
 - 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on Data Science Orojeccts
+- 💞️ I’m looking to collaborate on Data Science Projeccts
 - 📫 Reach me at abinash17072002@gmail.com
 
 <!---
